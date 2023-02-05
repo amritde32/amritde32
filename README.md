@@ -5,7 +5,7 @@
  
 <p align="left"> <a href="https://twitter.com/amritde31" target="blank"><img src="https://img.shields.io/twitter/follow/amritde31?logo=twitter&style=for-the-badge" alt="amritde31" /></a> </p>
 
-- 🌱 I’m currently learning **Thymeleaf**
+- 🌱 I’m currently learning **Rest API**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amritde32](https://github.com/amritde32)
 
