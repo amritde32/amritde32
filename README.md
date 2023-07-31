@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amritde108@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am happy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
